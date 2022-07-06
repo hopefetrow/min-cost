@@ -1,0 +1,6 @@
+Sequence of edits to convert X into Y: 
+
+ - delete A
+ - delete C
+ - change T to A
+ - delete G
